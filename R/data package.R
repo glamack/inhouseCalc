@@ -1,4 +1,4 @@
 library(tidyverse)
 
-educ_data <- read_csv("R/educ_data.csv")
+educ_data <- read_csv("data/educ_data.csv")
 
